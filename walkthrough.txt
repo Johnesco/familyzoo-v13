@@ -1,13 +1,4 @@
 south
 east
-take feed
-feed goats
-feed goats
-photograph goats
-west
-west
-west
-take camera
-photograph postcards
-east
-photograph toucan
+pet the goats
+x pygmy goats
