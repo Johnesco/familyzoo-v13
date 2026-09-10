@@ -3,7 +3,7 @@ story
   authors:
     John Googol
   id: familyzoo-v13
-  ifid: 705D9284-527C-4E24-AC89-1B7DCE70F379
+  ifid: 9E96C764-CFBC-4D75-80A8-A3C962E6A3AC
   story-version: 0.0.2
   description: Sharpee tutorial step 13 — `define trait` and the `define action` that dispatches on it — in Chord they are one lesson.
 
@@ -52,11 +52,10 @@ create the Aviary
   aka bird house, dome
   west to the Gift Shop
 
-  You step inside a soaring mesh dome. Brilliantly colored parrots
-  chatter from rope perches, and a toucan eyes you curiously from a
-  branch overhead. A small waterfall splashes into a stone basin. An
-  info plaque hangs near the entrance. The gift shop is to the west. The
-  main path is back to the east.
+  You step inside a soaring mesh dome. A toucan eyes you curiously from a
+  branch overhead, and rope perches crisscross the space. A small
+  waterfall splashes into a stone basin. A plaque hangs near the
+  entrance. The gift shop is to the west. The main path is back to the east.
 
 create the Supply Room
   a room
