@@ -14,7 +14,7 @@ Step 13 of sixteen in the [Family Zoo](https://github.com/Johnesco/familyzoo) tu
 
 ## The source
 
-The whole step is one file: [`familyzoo-v13.story`](./familyzoo-v13.story) — the step before it plus the ideas above. The chapter that walks through it is [`docs/v13-custom-traits-actions.md`](./docs/v13-custom-traits-actions.md).
+The whole step is one file: [`familyzoo-v13.story`](./familyzoo-v13.story) — the step before it plus the ideas above. Where it sits in the trail is on the [group page](https://johnesco.github.io/familyzoo/#familyzoo-v13).
 
 ## Playing and testing
 
