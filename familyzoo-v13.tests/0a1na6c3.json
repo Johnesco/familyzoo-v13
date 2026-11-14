@@ -51,8 +51,10 @@
     {
       "assertions": {
         "contains": [
-          "You pet the animal. It seems pleased.",
           "You reach down and pet the nearest goat. It leans into your hand and bleats happily. The o"
+        ],
+        "notContains": [
+          "You pet the animal. It seems pleased."
         ]
       },
       "command": "pet the goats",

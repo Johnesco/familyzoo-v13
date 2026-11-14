@@ -7,7 +7,7 @@ Step 13 of sixteen in the [Family Zoo](https://github.com/Johnesco/familyzoo) tu
 ## What this step adds
 
 - `define trait pettable` — naming a capability the stdlib lacks
-- `define action petting` — a new verb and its grammar
+- `define action petting` — a new verb and its grammar, and `remove from action touching` to claim *stroke*, a word the standard touching action already owns
 - An action that finds its target by trait, not by name
 - `feedable`, `chatty`, `restless` and animals that carry several traits
 - Why a trait alone does nothing until an action consults it

@@ -217,8 +217,6 @@ A pair of Holland Lop rabbits with floppy ears.
 The pygmy goats are bleating loudly and headbutting the fence. They seem very hungry!
 
 > pet the goats
-You pet the animal. It seems pleased.
-
 You reach down and pet the nearest goat. It leans into your hand and bleats happily. The others crowd around, demanding equal attention.
 
 The pygmy goats are bleating loudly and headbutting the fence. They seem very hungry!
@@ -548,8 +546,6 @@ You don't have any animal feed.
 The pygmy goats are bleating loudly and headbutting the fence. They seem very hungry!
 
 > pet pygmy goats
-You pet the animal. It seems pleased.
-
 You reach down and pet the nearest goat. It leans into your hand and bleats happily. The others crowd around, demanding equal attention.
 
 The pygmy goats are bleating loudly and headbutting the fence. They seem very hungry!
@@ -565,8 +561,6 @@ You don't have any animal feed.
 The pygmy goats are bleating loudly and headbutting the fence. They seem very hungry!
 
 > pet rabbits
-You pet the animal. It seems pleased.
-
 You gently stroke one of the rabbits. Its fur is incredibly soft. It twitches its nose at you contentedly.
 
 The pygmy goats are bleating loudly and headbutting the fence. They seem very hungry!
@@ -621,7 +615,7 @@ The warning sign is fixed in place.
 Taken.
 
 > turn on flashlight
-The flashlight switches on, banishing the darkness.
+You switch on the flashlight.
 
 > turn on radio
 The radio hums to life.
